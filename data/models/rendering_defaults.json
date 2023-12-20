@@ -1,0 +1,28 @@
+{
+    "heart_with_box": {
+        "colour": [255, 0, 0],
+        "opacity": 0.6,
+        "visibility": true,
+        "pickable": true,
+        "toggelable": true,
+        "outline": false
+    },
+
+    "pointer": {
+        "colour": [255, 0, 0],
+        "opacity": 0.5,
+        "visibility": true,
+        "pickable": true,
+        "toggelable": true,
+        "outline": false
+    }, 
+    "weiss": {
+        "colour": [0, 255, 0],
+        "opacity": 0.5,
+        "visibility": true,
+        "pickable": true,
+        "toggelable": true,
+        "outline": false
+    }
+
+}
