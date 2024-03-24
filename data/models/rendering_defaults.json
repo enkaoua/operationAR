@@ -1,5 +1,5 @@
 {
-    "heart_with_box": {
+    "organs": {
         "colour": [255, 0, 0],
         "opacity": 0.6,
         "visibility": true,
@@ -7,22 +7,15 @@
         "toggelable": true,
         "outline": false
     },
-
-    "pointer": {
+    "tweezers": {
         "colour": [255, 0, 0],
         "opacity": 0.5,
         "visibility": true,
         "pickable": true,
         "toggelable": true,
         "outline": false
-    }, 
-    "weiss": {
-        "colour": [0, 255, 0],
-        "opacity": 0.5,
-        "visibility": true,
-        "pickable": true,
-        "toggelable": true,
-        "outline": false
     }
+
+
 
 }
